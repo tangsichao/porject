@@ -12,7 +12,7 @@ public class Customer {
 	private String name;// 客户姓名
 	private char gender;// 性别
 	private int age;// 年龄
-	private String phone;// 电话号码
+	private String phone;// 电话号码18574790499
 	private String email;// 电子邮箱
 
 	public String getName() {
